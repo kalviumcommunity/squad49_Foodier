@@ -10,4 +10,5 @@ the features of this project are :-
 * locaton guide
 * restuarent contact information
 * table booking 
+
 * restuarent ratings 
