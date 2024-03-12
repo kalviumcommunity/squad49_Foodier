@@ -1,0 +1,11 @@
+{
+  "name": "squad49_foodier",
+  "version": "1.0.0",
+  "description": "The ideea of this ASAP project is to help people find thier favourite food easily, it makes life easier as all the available restuarents will be shown nearby in the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
